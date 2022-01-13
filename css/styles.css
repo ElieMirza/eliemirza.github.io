@@ -21,7 +21,7 @@ hr {
   color: #868289;
 }
 
-.title{
+.title {
   background-color: #3F3842;
   position: relative;
   text-align: center;
@@ -38,12 +38,14 @@ hr {
   left: 360px;
   font-size: 40px;
 }
+
 .second {
   position: absolute;
   top: 200px;
   left: 400px;
   font-size: 20px;
 }
+
 .third {
   position: absolute;
   top: 250px;
@@ -60,6 +62,7 @@ hr {
   padding: 50px;
   background-color: #3F3842;
 }
+
 .hobbies {
   padding-right: 100px;
 }
@@ -67,6 +70,7 @@ hr {
 .hobbies:link {
   color: #DEDBE0;
 }
+
 .hobbies:visited {
   color: #27242b;
 }
@@ -74,10 +78,12 @@ hr {
 .contact:link {
   color: #DEDBE0;
 }
+
 .contact:visited {
   color: #27242b;
 }
 
+/* start of youtube button */
 .btn:link, .btn:visited {
   background-color: #3F3842;
   color: white;
@@ -91,10 +97,12 @@ hr {
   background-color: #27242b;
 }
 
+/* end of youtube button */
 .no-underline:link {
   text-decoration: none;
 }
 
+/* start of contact.html social media icons */
 .social {
   display: inline-block;
 }
@@ -104,92 +112,111 @@ hr {
 }
 
 ._12 {
-    font-size: 1.2em;
+  font-size: 1.2em;
 }
+
 ._14 {
-    font-size: 1.4em;
+  font-size: 1.4em;
 }
+
 ul {
-    padding:0;
-    list-style: none;
+  padding: 0;
+  list-style: none;
 }
+
 .footer-social-icons {
-    width: 350px;
-    display:block;
-    margin: 0 auto;
+  width: 350px;
+  display: block;
+  margin: 0 auto;
 }
+
 .social-icon {
-    color: #fff;
+  color: #fff;
 }
+
 ul.social-icons {
-    margin-top: 10px;
+  margin-top: 10px;
 }
+
 .social-icons li {
-    vertical-align: top;
-    display: inline;
-    height: 100px;
+  vertical-align: top;
+  display: inline;
+  height: 100px;
 }
+
 .social-icons a {
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
+
 .fa-facebook {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
+  padding: 10px 14px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: #322f30;
 }
+
 .fa-facebook:hover {
-    background-color: #3d5b99;
+  background-color: #3d5b99;
 }
+
 .fa-instagram {
-    padding:10px 12px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
+  padding: 10px 12px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: #322f30;
 }
+
 .fa-instagram:hover {
-    background-color: #fb3958;
+  background-color: #fb3958;
 }
+
 .fa-youtube {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
+  padding: 10px 14px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: #322f30;
 }
+
 .fa-youtube:hover {
-    background-color: #e64a41;
+  background-color: #e64a41;
 }
+
 .fa-linkedin {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
+  padding: 10px 14px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: #322f30;
 }
+
 .fa-linkedin:hover {
-    background-color: #0073a4;
+  background-color: #0073a4;
 }
+
 .fa-github {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
+  padding: 10px 14px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: #322f30;
 }
+
 .fa-github:hover {
-    background-color: #5a32a3;
+  background-color: #5a32a3;
 }
+
+/* end of contact.html social media icons */
