@@ -9,6 +9,11 @@ h1 {
   margin-top: 0;
 }
 
+h3 {
+  color: #3B333E;
+  font-size: 30px;
+}
+
 hr {
   width: 10%;
   border: 10px dotted;
