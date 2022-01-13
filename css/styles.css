@@ -67,20 +67,8 @@ hr {
   padding-right: 100px;
 }
 
-.hobbies:link {
+.hobbies:link, .hobbies:visited, .contact:link, .contact:visited {
   color: #DEDBE0;
-}
-
-.hobbies:visited {
-  color: #27242b;
-}
-
-.contact:link {
-  color: #DEDBE0;
-}
-
-.contact:visited {
-  color: #27242b;
 }
 
 /* start of youtube button */
