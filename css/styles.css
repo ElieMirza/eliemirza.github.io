@@ -85,3 +85,7 @@ hr {
 .btn:hover, .btn:active {
   background-color: #27242b;
 }
+
+.no-underline:link {
+  text-decoration: none;
+}
