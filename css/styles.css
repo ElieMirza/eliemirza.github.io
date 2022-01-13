@@ -13,7 +13,7 @@ hr {
   width: 10%;
   border: 10px dotted;
   border-style: none none dotted;
-  color: grey
+  color: #868289;
 }
 
 .title{
@@ -49,6 +49,7 @@ hr {
 .brief {
   font-size: 25px;
 }
+
 
 .footer {
   font-size: 30px;
