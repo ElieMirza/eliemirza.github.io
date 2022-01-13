@@ -1,22 +1,19 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: Montserrat, sans-serif;
+  background-color: #DEDBE0;
 }
 
 h1 {
   margin-top: 0;
-
-}
-
-div {
-  background-color: #C8E3D4;
 }
 
 .title{
+  background-color: #3F3842;
   position: relative;
   text-align: center;
   color: #27242b;
-  font-family: Montserrat;
 }
 
 .background {
@@ -32,10 +29,24 @@ div {
 .second {
   position: absolute;
   top: 200px;
-  left: 425px;
+  left: 400px;
+  font-size: 20px;
 }
 .third {
   position: absolute;
   top: 250px;
-  left: 430px;
+  left: 405px;
+  font-size: 20px;
+}
+
+.brief {
+  font-size: 25px;
+}
+
+.footer {
+  font-size: 30px;
+  padding: 50px;
+}
+.hobbies {
+  padding-right: 100px;
 }
