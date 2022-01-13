@@ -79,7 +79,7 @@ hr {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
 }
 
 .btn:hover, .btn:active {
@@ -88,4 +88,8 @@ hr {
 
 .no-underline:link {
   text-decoration: none;
+}
+
+.social {
+  display: inline-block;
 }
