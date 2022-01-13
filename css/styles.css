@@ -54,7 +54,22 @@ hr {
 .footer {
   font-size: 30px;
   padding: 50px;
+  background-color: #3F3842;
 }
 .hobbies {
   padding-right: 100px;
+}
+
+.hobbies:link {
+  color: #DEDBE0;
+}
+.hobbies:visited {
+  color: #27242b;
+}
+
+.contact:link {
+  color: #DEDBE0;
+}
+.contact:visited {
+  color: #27242b;
 }
