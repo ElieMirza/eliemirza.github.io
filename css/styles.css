@@ -50,7 +50,6 @@ hr {
   font-size: 25px;
 }
 
-
 .footer {
   font-size: 30px;
   padding: 50px;
@@ -72,4 +71,17 @@ hr {
 }
 .contact:visited {
   color: #27242b;
+}
+
+.btn:link, .btn:visited {
+  background-color: #3F3842;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover, .btn:active {
+  background-color: #27242b;
 }
